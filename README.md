@@ -1,14 +1,19 @@
-# autowebui
-在腾讯云免费服务器中自动部署openwebui
+# AutoWebUI - OpenWebUI 自动部署工具
 
+## 项目简介
+- AutoWebUI 是一个在腾讯云 Cloud Studio 环境中快速部署 OpenWebUI 的自动化工具。
+- 本项目基于 [aigem/aitools](https://github.com/aigem/aitools) 进行优化和修复。
 
- ## 详细信息
- 本项目是基于项目：https://github.com/aigem/aitools/所进行的修改
- 本项目仅仅是对该项目的一个版本错误问题进行修复
- 本项目旨在帮助新手更加快速地在腾讯云的Cloud Studio中进行快速部署openwebui
+## 主要功能
+- 自动配置 OpenWebUI 运行环境
+- 修复原项目版本兼容性问题
+- 简化部署流程，适合新手使用
 
+## 快速开始
+- 直接下载源代码，拉入服务器内
+- bash autowebui.sh
+- 等待完成
 
- ## 作者信息
- LMEater进行修补
- 也是一个新手，如有问题可以TG联系“@LMEater
- 放心不一定看的到哦~~~~~嘿嘿
+## 维护者
+- **LMEater**
+- Telegram: [@LMEater](https://t.me/LMEater)
