@@ -14,6 +14,10 @@
 - bash autowebui.sh
 - 等待完成
 
+## 增加内容
+-增加了自动安装ngrok（内网穿透）
+-增加了自动安装sudo（如果你在使用自动安装ngrok时候出现了未知命令，运行这个）
+
 ## 维护者
 - **LMEater**
 - Telegram: [@LMEater](https://t.me/LMEater)
